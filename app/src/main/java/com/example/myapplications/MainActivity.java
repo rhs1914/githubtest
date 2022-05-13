@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.os.Bundle;
-import android.os.Environment;
 import android.view.SurfaceView;
 import android.view.View;
 import android.widget.Toast;
